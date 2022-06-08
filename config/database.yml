@@ -1,0 +1,11 @@
+development:
+  adapter: postgresql
+  database: book_data
+  host: localhost
+  pool: 5
+
+staging:
+  adapter: postgresql
+  database: book_data
+  host: localhost
+  pool: 5
